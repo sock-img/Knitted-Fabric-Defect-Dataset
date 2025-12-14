@@ -6,6 +6,9 @@ The constructed dataset comprises five representative defect categories: hole, s
 Following standard machine learning practices, the dataset was divided into a training set (60%), validation set (20%), and test set (20%), making it suitable for developing, training, and evaluating defect detection algorithms.
 
 In addition, our data set is too large for you to download directly, we provide you with the following two download methods.
+
 You can download the dataset from Quark Netdisk. URL：https://pan.quark.cn/s/e56cec085f26. Extraction code: rJr7.
+
 You can download the dataset from Baidu Netdisk. URL：https://pan.baidu.com/s/14QUWMDgqeJQqa7rRFCGBOg?pwd=6p5r. Extraction code: 6p5r.
+
 If you have any problem, please contact me by email：1480582374@qq.com.
