@@ -1,0 +1,5 @@
+0: hole
+1: dropstitch
+2: flying
+3: stain
+4: snagging
